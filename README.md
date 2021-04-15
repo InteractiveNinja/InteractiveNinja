@@ -3,7 +3,6 @@
 ## Wilkommen auf meinem Profil 👋
 
 
-<hr>
 
 Seit 2019 in der Ausbildung als Applikationsentwickler.
 
@@ -14,13 +13,11 @@ Gerne empfange ich deine Pullrequests 👀 ich kann noch viel besser machen ✨
 
 Hast du eine coole Projekt Idee? Lass es mich doch wissen ✌
 
-<hr>
 
 ## Erreichbar
 
 Discord: Interactive_Ninja#6969
 
-<hr>
 
 ## Skills 🧰
 
@@ -40,7 +37,6 @@ Gibt es auch noch
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C# Logo" width="50" height="50"/>
 
-<hr>
 
 ## 📈 Stats 🤷‍♂️
 
