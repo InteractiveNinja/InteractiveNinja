@@ -1,6 +1,6 @@
 # Wilkommen auf meinem Profil 👋
 
-Ausgebildeter Fullstack Entwickler. Experimentiere gerne mit neuen Programmiersprachen und Technologien, um interessante Projekte zu entwickeln. 
+Experimentiere gerne mit neuen Programmiersprachen und Technologien um interessante Projekte zu verwirklichen. 
 
 Ich freue mich über Feedback und Verbesserungsvorschläge und bin auch offen für neue Projektideen.
 
